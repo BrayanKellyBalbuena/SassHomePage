@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-index",
+      "appliesTo": "index.html",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-styles",
+      "appliesTo": "scss/styles.scss",
+      "type": "launch"
+    }
+  ]
+}
